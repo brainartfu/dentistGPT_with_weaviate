@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Gingivitis",
+    "description": "Inflammation of the gums",
+    "symptoms": ["Swollen or tender gums", "Bleeding gums", "Bad breath"],
+    "treatments": [
+      "Oral hygiene instructions",
+      "Professional teeth cleaning",
+      "Antibacterial mouthwash"
+    ]
+  },
+  {
+    "name": "Tooth decay",
+    "description": "Damage to the tooth enamel by bacterial acid",
+    "symptoms": [
+      "Toothache",
+      "Tooth sensitivity",
+      "Visible holes in the teeth"
+    ],
+    "treatments": ["Fillings", "Root canal therapy", "Tooth extraction"]
+  },
+  {
+    "name": "Periodontitis",
+    "description": "Infection of the gums and bone that support the teeth",
+    "symptoms": ["Bleeding gums", "Receding gums", "Tooth mobility"],
+    "treatments": ["Scaling and root planing", "Antibiotics", "Gum surgery"]
+  },
+  {
+    "name": "Dental abscess",
+    "description": "Infection at the root of a tooth or between the gum and a tooth",
+    "symptoms": ["Toothache", "Fever", "Swollen lymph nodes"],
+    "treatments": [
+      "Drainage of the abscess",
+      "Root canal therapy",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Bruxism",
+    "description": "Excessive grinding of teeth or clenching of the jaw",
+    "symptoms": ["Headache", "Jaw pain", "Tooth sensitivity"],
+    "treatments": [
+      "Custom fitted mouthguard",
+      "Stress management",
+      "Dental correction"
+    ]
+  },
+  {
+    "name": "Halitosis",
+    "description": "Chronic bad breath",
+    "symptoms": [
+      "Unpleasant odor from the mouth",
+      "Dry mouth",
+      "Bad taste in the mouth"
+    ],
+    "treatments": [
+      "Improved oral hygiene",
+      "Mouthwash",
+      "Treatment of underlying condition"
+    ]
+  },
+  {
+    "name": "Oral cancer",
+    "description": "Abnormal growth of cells in the mouth",
+    "symptoms": [
+      "Mouth sore that doesn't heal",
+      "Lump in the mouth",
+      "Difficulty swallowing"
+    ],
+    "treatments": ["Surgery", "Radiation therapy", "Chemotherapy"]
+  },
+  {
+    "name": "Dental erosion",
+    "description": "Loss of tooth enamel due to acid exposure",
+    "symptoms": [
+      "Yellowing of teeth",
+      "Sensitivity to hot/cold/acidic foods",
+      "Tooth roughness"
+    ],
+    "treatments": [
+      "Treatment of underlying condition",
+      "Fluoride treatment",
+      "Dental bonding"
+    ]
+  },
+  {
+    "name": "Malocclusion",
+    "description": "Misalignment of the teeth or jaws",
+    "symptoms": [
+      "Crooked teeth",
+      "Overbite/underbite",
+      "Difficulty biting/chewing"
+    ],
+    "treatments": ["Braces or aligners", "Jaw surgery", "Tooth extraction"]
+  },
+  {
+    "name": "Dry mouth",
+    "description": "Lack of sufficient saliva",
+    "symptoms": [
+      "Dry or sticky feeling in the mouth",
+      "Difficulty swallowing or speaking",
+      "Bad breath"
+    ],
+    "treatments": [
+      "Stimulating saliva production",
+      "Drinking more water",
+      "Treating underlying condition"
+    ]
+  },
+  {
+    "name": "Dental hypersensitivity",
+    "description": "Pain or discomfort in the teeth due to external stimuli",
+    "symptoms": [
+      "Pain or discomfort when eating/drinking hot or cold items",
+      "Pain or discomfort when chewing",
+      "Tooth sensitivity to air or touch"
+    ],
+    "treatments": [
+      "Desensitizing toothpaste",
+      "Fluoride treatment",
+      "Fillings or bonding"
+    ]
+  },
+  {
+    "name": "Periapical abscess",
+    "description": "Abscess at the tip of the root of a tooth",
+    "symptoms": ["Severe toothache", "Gum swelling", "Pus in the mouth"],
+    "treatments": [
+      "Deep cleaning of the tooth",
+      "Root canal therapy",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Oral thrush",
+    "description": "Fungal infection in the mouth",
+    "symptoms": [
+      "White spots or patches in the mouth",
+      "Pain in the mouth",
+      "Difficulty swallowing"
+    ],
+    "treatments": [
+      "Antifungal medication",
+      "Rinsing with salt water",
+      "Improving oral hygiene"
+    ]
+  },
+  {
+    "name": "Impacted tooth",
+    "description": "Tooth that is blocked from emerging into the mouth",
+    "symptoms": [
+      "Swollen or painful gums",
+      "Difficulty opening the mouth",
+      "Bad breath"
+    ],
+    "treatments": [
+      "Extraction of the tooth",
+      "Surgical removal of the blockage",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Dental trauma",
+    "description": "Injury to the teeth or surrounding tissues",
+    "symptoms": [
+      "Tooth sensitivity",
+      "Pain or discomfort in the mouth",
+      "Loose or broken teeth"
+    ],
+    "treatments": [
+      "Tooth splinting",
+      "Restorative treatment",
+      "Root canal therapy"
+    ]
+  },
+  {
+    "name": "Enamel hypoplasia",
+    "description": "Incomplete or defective formation of tooth enamel",
+    "symptoms": [
+      "Yellow or brown spots on teeth",
+      "Tooth sensitivity",
+      "Rough or pitted tooth surface"
+    ],
+    "treatments": [
+      "Treating underlying condition",
+      "Dental bonding or crowns",
+      "Sealants"
+    ]
+  },
+  {
+    "name": "Dental phobia",
+    "description": "Fear of receiving dental treatment",
+    "symptoms": [
+      "Anxiety or panic attacks",
+      "Avoidance of dental appointments",
+      "Physical symptoms such as sweating or trembling"
+    ],
+    "treatments": ["Counseling", "Relaxation techniques", "Sedation options"]
+  },
+  {
+    "name": "Erosive lichen planus",
+    "description": "Chronic inflammatory condition that affects the mucous membranes",
+    "symptoms": [
+      "Painful open sores in the mouth",
+      "Red or white patches in the mouth",
+      "Burning sensation"
+    ],
+    "treatments": ["Corticosteroids", "Retinoids", "Immunomodulators"]
+  },
+  {
+    "name": "Erythroplakia",
+    "description": "Red patches or lesions on the mucous membranes",
+    "symptoms": [
+      "Red or white patches or lesions in the mouth",
+      "Pain or discomfort in the mouth",
+      "Bleeding in the mouth"
+    ],
+    "treatments": [
+      "Biopsy to determine if it is cancerous or precancerous",
+      "Surgery to remove the affected tissue",
+      "Radiation therapy or chemotherapy"
+    ]
+  },
+  {
+    "name": "Oral submucous fibrosis",
+    "description": "Chronic progressive scarring of the mucous membranes",
+    "symptoms": [
+      "Limited mouth opening",
+      "Difficulty chewing or talking",
+      "Burning sensation in the mouth"
+    ],
+    "treatments": [
+      "Steroids to reduce inflammation and scarring",
+      "Mouth opening exercises",
+      "Avoidance of irritants such as tobacco and betel nut"
+    ]
+  },
+  {
+    "name": "Mucosal pemphigoid",
+    "description": "Autoimmune disease that affects the mucous membranes",
+    "symptoms": [
+      "Blisters in the mouth",
+      "Red or inflamed gums",
+      "Difficulty swallowing"
+    ],
+    "treatments": ["Corticosteroids to reduce inflammation"]
+  },
+  {
+    "name": "Tooth extraction",
+    "description": "The removal of a tooth or teeth from its socket in the jawbone.",
+    "symptoms": [
+      "Severe tooth decay",
+      "Gum disease",
+      "Trauma or injury to the tooth"
+    ],
+    "treatments": [
+      "Extraction of the affected tooth",
+      "Pain management",
+      "Antibiotics to prevent infection"
+    ]
+  },
+  {
+    "name": "Gummy smile",
+    "description": "A condition where an excessive amount of gum tissue is visible when a person smiles.",
+    "symptoms": ["Excessive gum tissue over teeth", "Small appearing teeth"],
+    "treatments": [
+      "Gum contouring surgery",
+      "Orthodontic treatment",
+      "Botox injections",
+      "Lip repositioning surgery"
+    ]
+  },
+  {
+    "name": "Cleft lip/palate",
+    "description": "A congenital defect in which the lip or palate fails to fuse properly during fetal development.",
+    "symptoms": [
+      "Visible split or gap in the lip or palate",
+      "Difficulty eating, speaking or hearing"
+    ],
+    "treatments": [
+      "Surgery to repair the lip or palate",
+      "Speech therapy",
+      "Dental and orthodontic treatment"
+    ]
+  },
+  {
+    "name": "Obstructive sleep apnea",
+    "description": "A sleep disorder where breathing is repeatedly interrupted during sleep due to collapsed airways.",
+    "symptoms": ["Loud snoring", "Daytime fatigue", "Headaches"],
+    "treatments": [
+      "Continuous Positive Airway Pressure (CPAP) machine",
+      "Oral appliances to position the jaw and tongue",
+      "Surgery to remove excess tissue"
+    ]
+  }
+]

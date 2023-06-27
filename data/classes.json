@@ -1,0 +1,175 @@
+{
+  "classes": [
+    {
+      "class": "DentalCondition",
+      "description": "A dental condition or disease, such as a cavity or gum disease.",
+      "properties": [
+        {
+          "dataType": ["text"],
+          "description": "The name of the dental condition or disease.",
+          "name": "name"
+        },
+        {
+          "dataType": ["text"],
+          "description": "The description of the dental condition.",
+          "name": "description"
+        },
+        {
+          "dataType": ["text[]"],
+          "description": "The symptoms of the dental condition or disease.",
+          "name": "symptoms"
+        },
+        {
+          "dataType": ["text[]"],
+          "description": "The treatments for the dental condition or disease.",
+          "name": "treatments"
+        }
+      ]
+    },
+    {
+      "class": "DentalEquipment",
+      "description": "Dental equipment used by dentists, such as dental chairs or drills.",
+      "properties": [
+        {
+          "dataType": ["text"],
+          "description": "The name of the dental equipment.",
+          "name": "name"
+        },
+        {
+          "dataType": ["text"],
+          "description": "The description of the dental equipment.",
+          "name": "description"
+        },
+        {
+          "dataType": ["number"],
+          "description": "The cost of the dental equipment.",
+          "name": "cost"
+        },
+        {
+          "dataType": ["string"],
+          "description": "The dental procedure associated with the dental equipment.",
+          "name": "procedure"
+        }
+      ]
+    },
+    {
+      "class": "DentalMaterial",
+      "description": "Dental materials used by dentists, such as dental cement or composite resin.",
+      "properties": [
+        {
+          "dataType": ["text"],
+          "description": "The name of the dental material.",
+          "name": "name"
+        },
+        {
+          "dataType": ["text"],
+          "description": "The description of the dental material.",
+          "name": "description"
+        },
+        {
+          "dataType": ["number"],
+          "description": "The cost of the dental material.",
+          "name": "cost"
+        },
+        {
+          "dataType": ["string"],
+          "description": "The dental procedure associated with the dental material.",
+          "name": "procedure"
+        }
+      ]
+    },
+    {
+      "class": "DentalProcedure",
+      "description": "A dental procedure performed by a dentist, such as fillings, teeth cleaning, or root canal.",
+      "properties": [
+        {
+          "dataType": ["text"],
+          "description": "The name of the dental procedure.",
+          "name": "name"
+        },
+        {
+          "dataType": ["text"],
+          "description": "The description of the dental procedure.",
+          "name": "description"
+        },
+        {
+          "dataType": ["DentalEquipment"],
+          "description": "The dental equipment used during the procedure.",
+          "name": "equipment"
+        },
+        {
+          "dataType": ["DentalMaterial"],
+          "description": "The dental materials used during the procedure.",
+          "name": "materials"
+        },
+        {
+          "dataType": ["DentalCondition"],
+          "description": "The dental condition or disease that the procedure addresses.",
+          "name": "condition"
+        }
+      ]
+    },
+    {
+      "class": "DentalSchool",
+      "description": "Represents dental schools and colleges that offer dental education programs",
+      "properties": [
+        {
+          "dataType": ["text"],
+          "description": "The name of the school or college",
+          "name": "name"
+        },
+        {
+          "dataType": ["text"],
+          "description": "The description of the dental school.",
+          "name": "description"
+        },
+        {
+          "dataType": ["text"],
+          "description": "The location of the school or college",
+          "name": "location"
+        },
+        {
+          "dataType": ["text[]"],
+          "description": "A list of dental education programs offered by the school or college",
+          "name": "offers"
+        }
+      ]
+    },    
+    {
+      "class": "Dentist",
+      "description": "A dentist who provides dental services.",
+      "properties": [
+        {
+          "dataType": ["text"],
+          "description": "The name of the dentist.",
+          "name": "name"
+        },
+        {
+          "dataType": ["text"],
+          "description": "The area of specialization of the dentist.",
+          "name": "specialization"
+        },
+        {
+          "dataType": ["DentalSchool"],
+          "description": "The dental school where the dentist received their training.",
+          "name": "school"
+        },
+        {
+          "dataType": ["text"],
+          "description": "The dental insurance plans accepted by the dentist.",
+          "name": "insurance"
+        },
+        {
+          "dataType": ["DentalEquipment"],
+          "description": "The dental equipment used during the procedure.",
+          "name": "equipment"
+        },
+        {
+          "dataType": ["DentalMaterial"],
+          "description": "The dental materials used during the procedure.",
+          "name": "materials"
+        }
+      ]
+    }
+  ]
+}

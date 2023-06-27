@@ -1,0 +1,89 @@
+[
+  {
+      "name": "University of Michigan School of Dentistry",
+      "location": "Ann Arbor, Michigan",
+      "description": "The University of Michigan School of Dentistry is the dental school of the University of Michigan, located in Ann Arbor, Michigan. It is one of the leading dental schools in the United States, with a long history of excellence in education, research, and patient care.",
+      "offers": [
+        "Doctor of Dental Surgery",
+        "Doctor of Dental Science",
+        "Master of Science in Dentistry",
+        "Specialty programs in Endodontics, Orthodontics, Periodontics, and others"
+      ]
+  },
+  {
+      "name": "University of California, Los Angeles School of Dentistry",
+      "location": "Los Angeles, California",
+      "description": "The University of California, Los Angeles School of Dentistry is a leading dental school located in Los Angeles, California. The school offers a wide range of dental education programs and is known for its innovative research and clinical training programs.",
+      "offers": [
+        "Doctor of Dental Surgery",
+        "Doctor of Dental Medicine",
+        "Master of Science in Oral Biology",
+        "Specialty programs in Endodontics, Orthodontics, Periodontics, and others"
+      ]
+  },
+  {
+      "name": "University of Pennsylvania School of Dental Medicine",
+      "location": "Philadelphia, Pennsylvania",
+      "description": "The University of Pennsylvania School of Dental Medicine is a prestigious dental school located in Philadelphia, Pennsylvania. The school is committed to providing outstanding dental education programs, while also conducting cutting-edge research in dental medicine.",
+      "offers": [
+        "Doctor of Dental Medicine",
+        "Postgraduate programs in Endodontics, Orthodontics, Periodontics, and others"
+      ]
+  },
+  {
+      "name": "New York University College of Dentistry",
+      "location": "New York City, New York",
+      "description": "The New York University College of Dentistry is a world-renowned dental school located in New York City. The school is dedicated to innovation, education, research, and patient care in the field of dental medicine.",
+      "offers": [
+        "Doctor of Dental Surgery",
+        "Doctor of Dental Medicine",
+        "Bachelor of Science in Dental Hygiene",
+        "Master's programs in Dental Hygiene, Orthodontics, and others",
+        "Specialty programs in Endodontics, Oral and Maxillofacial Surgery, Periodontics, and others"
+      ]
+  },
+  {
+      "name": "University of Southern California School of Dentistry",
+      "location": "Los Angeles, California",
+      "description": "The University of Southern California School of Dentistry is a leading dental school located in Los Angeles, California. The school is known for its commitment to innovative research, exceptional education, and patient-centered care.",
+      "offers": [
+        "Doctor of Dental Surgery",
+        "Doctor of Dental Medicine",
+        "Master of Science in Craniofacial Biology",
+        "Specialty programs in Endodontics, Orthodontics, Periodontics, and others"
+      ]
+  },
+  {
+      "name": "University of California, San Francisco School of Dentistry",
+      "location": "San Francisco, California",
+      "description": "The University of California, San Francisco School of Dentistry is a top-ranked dental school located in San Francisco, California. The school is dedicated to advancing dental education, research, and clinical care through innovation and collaboration.",
+      "offers": [
+        "Doctor of Dental Surgery",
+        "Bachelor of Science in Dental Hygiene",
+        "Master's programs in Dental Hygiene, Oral and Craniofacial Sciences, and others",
+        "Specialty programs in Endodontics, Orthodontics, Periodontics, and others"
+      ]
+  },
+  {
+      "name": "University of Florida College of Dentistry",
+      "location": "Gainesville, Florida",
+      "description": "The University of Florida College of Dentistry is a top dental school located in Gainesville, Florida. The school is committed to excellence in education, research, and patient care in the field of dental medicine.",
+      "offers": [
+        "Doctor of Dental Medicine",
+        "Bachelor of Science in Dental Hygiene",
+        "Master's programs in Dental Sciences, Public Health, and others",
+        "Specialty programs in Endodontics, Orthodontics, Periodontics, and others"
+      ]
+  },
+  {
+      "name": "University of Alabama School of Dentistry",
+      "location": "Birmingham, Alabama",
+      "description": "The University of Alabama School of Dentistry is a premier dental school located in Birmingham, Alabama. The school is committed to providing exceptional dental education, research, and clinical care services to the local community and beyond.",
+      "offers": [
+        "Doctor of Dental Medicine",
+        "Bachelor of Science in Dental Hygiene",
+        "Master's programs in Oral Biology and others",
+        "Specialty programs in Endodontics, Orthodontics, Periodontics, and others"
+      ]
+  }
+]

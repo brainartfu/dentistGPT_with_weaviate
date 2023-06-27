@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Dr. Smith",
+    "specialization": "General Dentistry",
+    "school": "University of Michigan School of Dentistry",
+    "insurance": "Delta Dental",
+    "equipment": ["Dental chair"],
+    "materials": ["Composite resin", "Amalgam"]
+  },
+  {
+    "name": "Dr. Brown",
+    "specialization": "Orthodontics",
+    "school": "University of California, Los Angeles School of Dentistry",
+    "insurance": "MetLife",
+    "equipment": ["Dental drill"],
+    "materials": ["Composite resin", "Invisalign"]
+  },
+  {
+    "name": "Dr. Martinez",
+    "specialization": "Oral Surgery",
+    "school": "University of Pennsylvania School of Dental Medicine",
+    "insurance": "Aetna",
+    "equipment": ["Digital X-ray machine", "Cone beam computed tomography"],
+    "materials": ["Dental cement", "Hydroxyapatite"]
+  },
+  {
+    "name": "Dr. Lee",
+    "specialization": "Cosmetic Dentistry",
+    "school": "New York University College of Dentistry",
+    "insurance": "Cigna",
+    "equipment": [
+      "Intraoral camera",
+      "Dental fiber optic handpiece",
+      "Air water syringe"
+    ],
+    "materials": ["Composite resin", "Porcelain"]
+  },
+  {
+    "name": "Dr. Kim",
+    "specialization": "Prosthodontics",
+    "school": "University of Southern California School of Dentistry",
+    "insurance": "Humana",
+    "equipment": ["Curing light", "Implant motor", "Dental curing unit"],
+    "materials": ["Composite resin", "Gold alloy", "E.max"]
+  },
+  {
+    "name": "Dr. Chen",
+    "specialization": "Periodontics",
+    "school": "University of California, San Francisco School of Dentistry",
+    "insurance": "Anthem Blue Cross",
+    "equipment": [
+      "Ultrasonic scaler",
+      "Air abrasive",
+      "Dental sterilization unit"
+    ],
+    "materials": ["Calcium hydroxide", "Zinc oxide", "Dental amalgam alloy"]
+  },
+  {
+    "name": "Dr. Davis",
+    "specialization": "Pediatric Dentistry",
+    "school": "University of Florida College of Dentistry",
+    "insurance": "United Healthcare",
+    "equipment": [
+      "Surgical handpiece",
+      "Air water syringe",
+      "Nitrous oxide sedation system"
+    ],
+    "materials": ["Composite resin", "Dental gold"]
+  },
+  {
+    "name": "Dr. Wilson",
+    "specialization": "Endodontics",
+    "school": "University of Alabama School of Dentistry",
+    "insurance": "Blue Cross Blue Shield",
+    "equipment": [
+      "Implant motor",
+      "Intraoral scanner",
+      "Dental sterilization unit"
+    ],
+    "materials": [
+      "Gutta-percha",
+      "Calcium phosphate",
+      "Silver diamine fluoride"
+    ]
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Dental cleaning",
+    "description": "A preventive procedure to remove plaque and tartar buildup from teeth and gums.",
+    "cost": 100,
+    "dentist": "Dr. Chen",
+    "equipment": ["Ultrasonic scaler"],
+    "materials": ["Disposable prophylaxis paste", "Fluoride varnish"],
+    "condition": "Gingivitis"
+  },
+  {
+    "name": "Fillings",
+    "description": "A restorative procedure to fill cavities caused by tooth decay.",
+    "cost": 300,
+    "dentist": "Dr. Smith",
+    "equipment": ["Curing light"],
+    "materials": ["Composite resin"],
+    "condition": "Tooth decay"
+  },
+  {
+    "name": "Root canal therapy",
+    "description": "A treatment to remove infected or damaged tissue from inside a tooth.",
+    "cost": 1000,
+    "dentist": "Dr. Wilson",
+    "equipment": ["Intraoral scanner", "Endodontic handpiece"],
+    "materials": ["Gutta-percha", "Endodontic sealer"],
+    "condition": "Periodontitis"
+  },
+  {
+    "name": "Extraction",
+    "description": "A surgical procedure to remove a tooth that cannot be saved.",
+    "cost": 500,
+    "dentist": "Dr. Brown",
+    "equipment": ["Dental elevator", "Forceps"],
+    "materials": ["Sutures"],
+    "condition": "Dental abscess"
+  },
+  {
+    "name": "Braces",
+    "description": "An orthodontic treatment to correct misaligned teeth and bite issues.",
+    "cost": 5000,
+    "dentist": "Dr. Kim",
+    "equipment": ["Orthodontic pliers"],
+    "materials": ["Brackets", "Archwire"],
+    "condition": "Malocclusion"
+  },
+  {
+    "name": "Gum surgery",
+    "description": "A surgical procedure to treat advanced gum disease and restore gum health.",
+    "cost": 3000,
+    "dentist": "Dr. Chen",
+    "equipment": ["Laser", "Surgical handpiece"],
+    "materials": ["Grafts"],
+    "condition": "Periodontitis"
+  },
+  {
+    "name": "Dental implant",
+    "description": "A surgical procedure to replace a missing tooth with an artificial tooth root and crown.",
+    "cost": 4000,
+    "dentist": "Dr. Kim",
+    "equipment": ["Implant motor"],
+    "materials": ["Titanium implant", "Abutment"],
+    "condition": "Tooth extraction"
+  },
+  {
+    "name": "Dental bonding",
+    "description": "A cosmetic procedure to improve the appearance of chipped, discolored, or misshapen teeth.",
+    "cost": 250,
+    "dentist": "Dr. Lee",
+    "equipment": ["Curing light"],
+    "materials": ["Composite resin"],
+    "condition": "Enamel hypoplasia"
+  },
+  {
+    "name": "Invisalign",
+    "description": "An alternative orthodontic treatment to traditional braces that uses clear aligners to straighten teeth.",
+    "cost": 5000,
+    "dentist": "Dr. Brown",
+    "equipment": ["Digital scanner"],
+    "materials": ["Clear aligners"],
+    "condition": "Malocclusion"
+  },
+  {
+    "name": "Periodontal maintenance",
+    "description": "Continuing care for patients with gum disease to prevent its progression.",
+    "cost": 150,
+    "dentist": "Dr. Chen",
+    "equipment": ["Ultrasonic scaler"],
+    "materials": ["Antibacterial mouthwash"],
+    "condition": "Periodontitis"
+  },
+  {
+    "name": "Wisdom teeth extraction",
+    "description": "A surgical procedure to remove impacted wisdom teeth.",
+    "cost": 800,
+    "dentist": "Dr. Brown",
+    "equipment": ["Surgical handpiece", "Forceps"],
+    "materials": ["Sutures"],
+    "condition": "Impacted tooth"
+  },
+  {
+    "name": "Dentures",
+    "description": "A removable prosthesis to replace missing teeth.",
+    "cost": 2000,
+    "dentist": "Dr. Smith",
+    "equipment": ["Impression trays", "Articulator"],
+    "materials": ["Acrylic resin", "Porcelain"],
+    "condition": "Tooth extraction"
+  },
+  {
+    "name": "Teeth whitening",
+    "description": "A cosmetic procedure to lighten the color of teeth.",
+    "cost": 300,
+    "dentist": "Dr. Lee",
+    "equipment": ["Whitening lamp"],
+    "materials": ["Bleaching gel"],
+    "condition": "Dental hypersensitivity"
+  },
+  {
+    "name": "Oral surgery",
+    "description": "A surgical procedure to treat a variety of oral health issues, including cancer, trauma, and deformity.",
+    "cost": 2000,
+    "dentist": "Dr. Martinez",
+    "equipment": ["Digital X-ray machine", "Surgical handpiece"],
+    "materials": ["Sutures", "Surgical dressing"],
+    "condition": "Oral cancer"
+  },
+  {
+    "name": "Dental crown",
+    "description": "A restorative procedure to cover damaged or weakened teeth with a cap or crown.",
+    "cost": 900,
+    "dentist": "Dr. Smith",
+    "equipment": ["Curing light"],
+    "materials": ["Porcelain", "Gold alloy"],
+    "condition": "Tooth decay"
+  },
+  {
+    "name": "Sedation",
+    "description": "A medication to help patients feel relaxed and comfortable during dental procedures.",
+    "cost": 500,
+    "dentist": "Dr. Davis",
+    "equipment": ["Nitrous oxide sedation system"],
+    "materials": ["Sedative"],
+    "condition": "Dental phobia"
+  },
+  {
+    "name": "Dental bridge",
+    "description": "A restorative procedure to replace missing teeth by attaching an artificial tooth to adjacent natural teeth.",
+    "cost": 1500,
+    "dentist": "Dr. Smith",
+    "equipment": ["Impression trays"],
+    "materials": ["Porcelain", "Gold alloy"],
+    "condition": "Tooth extraction"
+  },
+  {
+    "name": "Dental sealant",
+    "description": "A preventive procedure to protect teeth from decay by applying a thin coating to the biting surfaces of molars and premolars.",
+    "cost": 50,
+    "dentist": "Dr. Chen",
+    "equipment": ["Air abrasive unit"],
+    "materials": ["Sealant resin"],
+    "condition": "Tooth decay"
+  },
+  {
+    "name": "Orthognathic surgery",
+    "description": "A surgical procedure to correct misaligned jaws and improve bite function.",
+    "cost": 10000,
+    "dentist": "Dr. Brown",
+    "equipment": ["Surgical handpiece", "Orthognathic trays"],
+    "materials": ["Surgical wiring"],
+    "condition": "Malocclusion"
+  },
+  {
+    "name": "Fluoride treatment",
+    "description": "A preventive procedure to strengthen teeth and prevent decay by applying a fluoride solution to the tooth surfaces.",
+    "cost": 50,
+    "dentist": "Dr. Chen",
+    "equipment": ["Fluoride varnish"],
+    "materials": ["Fluoride gel"],
+    "condition": "Dental erosion"
+  },
+  {
+    "name": "Dental inlay/onlay",
+    "description": "A restorative procedure to repair larger cavities by placing a custom-made restoration on the affected tooth.",
+    "cost": 500,
+    "dentist": "Dr. Lee",
+    "equipment": ["Curing light"],
+    "materials": ["Composite resin", "Porcelain"],
+    "condition": "Tooth decay"
+  },
+  {
+    "name": "Mouthguard",
+    "description": "A protective appliance to prevent dental injury during sports or teeth grinding at night.",
+    "cost": 300,
+    "dentist": "Dr. Kim",
+    "equipment": ["Digital scanner"],
+    "materials": ["Custom-fitted material"],
+    "condition": "Bruxism"
+  },
+  {
+    "name": "Cleft lip/palate repair",
+    "description": "A surgical procedure to correct cleft lip and/or palate, a congenital condition in which the upper lip or roof of the mouth does not form properly.",
+    "cost": 15000,
+    "dentist": "Dr. Martinez",
+    "equipment": ["Surgical handpiece", "Orthognathic trays"],
+    "materials": ["Surgical wire"],
+    "condition": "Cleft lip/palate"
+  },
+  {
+    "name": "Oral appliance therapy",
+    "description": "A non-surgical treatment for sleep apnea that involves wearing a device that helps keep the airway open during sleep.",
+    "cost": 1000,
+    "dentist": "Dr. Kim",
+    "equipment": ["Digital scanner"],
+    "materials": ["Adjustable appliance"],
+    "condition": "Obstructive sleep apnea"
+  },
+  {
+    "name": "Gum contouring",
+    "description": "A cosmetic procedure to reshape the gum line and create a more symmetrical, aesthetically pleasing smile.",
+    "cost": 1500,
+    "dentist": "Dr. Lee",
+    "equipment": ["Laser", "Surgical handpiece"],
+    "materials": ["Sutures"],
+    "condition": "Gummy smile"
+  },
+  {
+    "name": "Dental veneers",
+    "description": "A cosmetic procedure to improve the appearance of teeth by placing thin, custom-made shells over the front surface of teeth.",
+    "cost": 1000,
+    "dentist": "Dr. Smith",
+    "equipment": ["Impression trays"],
+    "materials": ["Porcelain"],
+    "condition": "Enamel hypoplasia"
+  },
+  {
+    "name": "Oral cancer screening",
+    "description": "A procedure to detect early signs of oral cancer, usually through visual and tactile examination by a dentist.",
+    "cost": 50,
+    "dentist": "Dr. Davis",
+    "equipment": ["Oral cancer detector"],
+    "materials": ["N/A"],
+    "condition": "Oral cancer"
+  }
+]

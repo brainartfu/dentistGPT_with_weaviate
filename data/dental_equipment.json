@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Dental chair",
+    "description": "A specialized chair designed for use in dental procedures. Dental chairs have adjustable height, backrest, and armrests to ensure patient comfort and provide easy access for the dentist.",
+    "cost": 10000,
+    "dentists": ["Dr. Smith", "Dr. Lee"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Dental drill",
+    "description": "A high-speed hand-held tool used to remove decay and reshape teeth during a variety of dental procedures, including fillings, crowns, and bridges.",
+    "cost": 5000,
+    "dentists": ["Dr. Brown", "Dr. Singh"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Digital X-ray machine",
+    "description": "A machine that uses digital technology to produce detailed images of a patient's teeth and gums for diagnostic purposes. Digital X-rays use significantly less radiation than traditional X-rays and provide faster results.",
+    "cost": 8000,
+    "dentists": ["Dr. Martinez", "Dr. Wang"],
+    "procedure": "Diagnostic imaging"
+  },
+  {
+    "name": "Intraoral camera",
+    "description": "A small camera that allows dentists to take images of the inside of a patient's mouth to aid in diagnosis and treatment planning.",
+    "cost": 2000,
+    "dentists": ["Dr. Lee", "Dr. Johnson"],
+    "procedure": "Diagnostic imaging"
+  },
+  {
+    "name": "Curing light",
+    "description": "A handheld light source used to harden dental materials such as composite resin during fillings and other restorative procedures.",
+    "cost": 500,
+    "dentists": ["Dr. Kim", "Dr. Patel"],
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Ultrasonic scaler",
+    "description": "A handheld tool that uses high-frequency vibrations to remove tartar and plaque buildup from teeth during cleanings.",
+    "cost": 3000,
+    "dentists": ["Dr. Chen", "Dr. Liu"],
+    "procedure": "Teeth cleaning"
+  },
+  {
+    "name": "Surgical handpiece",
+    "description": "A specialized dental drill used during surgical procedures such as extractions and implant placement.",
+    "cost": 1000,
+    "dentists": ["Dr. Davis", "Dr. Nguyen"],
+    "procedure": "Extractions and surgery"
+  },
+  {
+    "name": "Implant motor",
+    "description": "A specialized dental drill used during implant placement procedures.",
+    "cost": 4000,
+    "dentists": ["Dr. Wilson", "Dr. Garcia"],
+    "procedure": "Implants"
+  },
+  {
+    "name": "Endodontic handpiece",
+    "description": "A specialized dental drill used during root canal procedures to remove infected or damaged tissue from inside the tooth.",
+    "cost": 2000,
+    "dentists": ["Dr. Lee", "Dr. Patel"],
+    "procedure": "Root canal"
+  },
+  {
+    "name": "Air abrasive",
+    "description": "A tool that uses compressed air and fine particles to remove surface stains, decay, and other dental debris from teeth.",
+    "cost": 1500,
+    "dentists": ["Dr. Chen", "Dr. Singh"],
+    "procedure": "Teeth cleaning"
+  },
+  {
+    "name": "Cone beam computed tomography",
+    "description": "A specialized X-ray technique that produces detailed three-dimensional images of a patient's teeth, jaw, and other craniofacial structures. CBCT is often used for implant planning and other complex procedures.",
+    "cost": 20000,
+    "dentists": ["Dr. Martinez", "Dr. Wong"],
+    "procedure": "Diagnostic imaging"
+  },
+  {
+    "name": "Intraoral scanner",
+    "description": "A handheld device used to take digital impressions of a patient's teeth and gums for use in restorative procedures such as crowns and bridges.",
+    "cost": 5000,
+    "dentists": ["Dr. Wilson", "Dr. Gupta"],
+    "procedure": "Dental impressions"
+  },
+  {
+    "name": "Air water syringe",
+    "description": "A handheld tool used to rinse and dry teeth during a variety of dental procedures.",
+    "cost": 1000,
+    "dentists": ["Dr. Patel", "Dr. Davis"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Dental fiber optic handpiece",
+    "description": "A specialized dental drill that uses fiber optic technology to provide better illumination and visualization during procedures.",
+    "cost": 3000,
+    "dentists": ["Dr. Lee", "Dr. Martinez"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Dental sterilization unit",
+    "description": "A machine used to sterilize dental instruments and equipment to prevent the spread of infection.",
+    "cost": 6000,
+    "dentists": ["Dr. Wong", "Dr. Chen"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Ultraviolet sterilizer",
+    "description": "A device used to sterilize dental instruments and equipment using ultraviolet light.",
+    "cost": 500,
+    "dentists": ["Dr. Lee", "Dr. Davis"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Dental air compressor",
+    "description": "A machine that provides compressed air for use in a variety of dental tools.",
+    "cost": 4000,
+    "dentists": ["Dr. Kim", "Dr. Wilson"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Dental amalgamator",
+    "description": "A machine used to mix and blend dental amalgam for use in fillings.",
+    "cost": 2500,
+    "dentists": ["Dr. Garcia", "Dr. Chen"],
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Ultrasonic cleaner",
+    "description": "A machine that uses high-frequency sound waves to remove dirt, debris, and other contaminants from dental instruments and equipment.",
+    "cost": 1000,
+    "dentists": ["Dr. Singh", "Dr. Wilson"],
+    "procedure": "Cleaning and disinfection"
+  },
+  {
+    "name": "Nitrous oxide sedation system",
+    "description": "A system used to deliver nitrous oxide gas to patients to help them relax and alleviate anxiety during dental procedures.",
+    "cost": 7000,
+    "dentists": ["Dr. Lee", "Dr. Davis"],
+    "procedure": "Sedation"
+  },
+  {
+    "name": "Dental laser",
+    "description": "A specialized tool used in a variety of dental procedures, including periodontal therapy and surgical procedures.",
+    "cost": 15000,
+    "dentists": ["Dr. Kim", "Dr. Wong"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Cavitron",
+    "description": "A specialized ultrasonic scaler used during teeth cleaning procedures to remove tartar and plaque buildup.",
+    "cost": 3500,
+    "dentists": ["Dr. Patel", "Dr. Nguyen"],
+    "procedure": "Teeth cleaning"
+  },
+  {
+    "name": "Intraoral radiography",
+    "description": "A specialized X-ray technique that produces detailed images of the inside of a patient's mouth for diagnostic purposes.",
+    "cost": 5000,
+    "dentists": ["Dr. Garcia", "Dr. Wilson"],
+    "procedure": "Diagnostic imaging"
+  },
+  {
+    "name": "Dental articulator",
+    "description": "A device used to hold dental models in the correct position to aid in the fabrication of restorations such as crowns and bridges.",
+    "cost": 600,
+    "dentists": ["Dr. Chen", "Dr. Wong"],
+    "procedure": "Restorative dentistry"
+  },
+  {
+    "name": "Dental torque wrench",
+    "description": "A specialized tool used to measure and control the tightening force applied to dental implants.",
+    "cost": 3000,
+    "dentists": ["Dr. Kim", "Dr. Nguyen"],
+    "procedure": "Implants"
+  },
+  {
+    "name": "Dental syringe",
+    "description": "A handheld tool used to inject local anesthesia during dental procedures.",
+    "cost": 800,
+    "dentists": ["Dr. Lee", "Dr. Patel"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Dental lathe",
+    "description": "A machine used to shape and polish dental restorations such as dentures and crowns.",
+    "cost": 4500,
+    "dentists": ["Dr. Davis", "Dr. Wilson"],
+    "procedure": "Restorative dentistry"
+  },
+  {
+    "name": "Dental polishing unit",
+    "description": "A machine used to polish dental restorations and remove surface stains from teeth.",
+    "cost": 700,
+    "dentists": ["Dr. Chen", "Dr. Wong"],
+    "procedure": "All procedures"
+  },
+  {
+    "name": "Electric pulp tester",
+    "description": "A handheld device used to diagnose the health of a tooth's nerve by measuring the response to small electrical impulses.",
+    "cost": 1200,
+    "dentists": ["Dr. Garcia", "Dr. Wilson"],
+    "procedure": "Diagnostic imaging"
+  },
+  {
+    "name": "Dental curing unit",
+    "description": "A handheld light source used to harden dental materials such as composite resin during fillings and other restorative procedures.",
+    "cost": 1000,
+    "dentists": ["Dr. Kim", "Dr. Patel"],
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Dental elevator",
+    "description": "A surgical instrument used to loosen teeth before extraction.",
+    "cost": 50,
+    "dentists": ["Dr. Smith", "Dr. Lee"],
+    "procedure": "Tooth Extraction"
+  },
+  {
+    "name": "Forceps",
+    "description": "A surgical instrument used to grip and extract teeth.",
+    "cost": 75,
+    "dentists": ["Dr. Johnson", "Dr. Kim"],
+    "procedure": "Tooth Extraction"
+  },
+  {
+    "name": "Orthodontic pliers",
+    "description": "Specialty pliers used for adjusting brackets, archwires, and elastic bands during orthodontic treatment.",
+    "cost": 100,
+    "dentists": ["Dr. Lee", "Dr. Park"],
+    "procedure": "Orthodontic Treatment"
+  },
+  {
+    "name": "Articulator",
+    "description": "A mechanical device used to simulate jaw movements and occlusal relationships in dental restorations.",
+    "cost": 500,
+    "dentists": ["Dr. Park", "Dr. Chang"],
+    "procedure": "Dental Restoration"
+  },
+  {
+    "name": "Whitening lamp",
+    "description": "A specialized light used to accelerate the whitening process during dental bleaching procedures.",
+    "cost": 200,
+    "dentists": ["Dr. Chang", "Dr. Lee"],
+    "procedure": "Teeth Whitening"
+  },
+  {
+    "name": "Nitrous oxide sedation system",
+    "description": "A system used to administer nitrous oxide (laughing gas) to patients to help them relax and reduce pain and anxiety during dental procedures.",
+    "cost": 1000,
+    "dentists": ["Dr. Johnson", "Dr. Kim"],
+    "procedure": "Sedation Dentistry"
+  },
+  {
+    "name": "Air abrasive unit",
+    "description": "A device that projects a stream of abrasive particles and compressed air to remove surface stains and deposits from teeth.",
+    "cost": 500,
+    "dentists": ["Dr. Smith", "Dr. Park"],
+    "procedure": "Teeth Cleaning"
+  },
+  {
+    "name": "Orthognathic trays",
+    "description": "Custom-fitted trays used to position and stabilize the jaws during orthodontic treatment.",
+    "cost": 150,
+    "dentists": ["Dr. Lee", "Dr. Chang"],
+    "procedure": "Orthodontic Treatment"
+  },
+  {
+    "name": "Oral cancer detector",
+    "description": "A device used to screen for oral cancer by shining a special light onto the oral tissues to identify abnormal cells and lesions.",
+    "cost": 1000,
+    "dentists": ["Dr. Johnson", "Dr. Kim"],
+    "procedure": "Oral Cancer Screening"
+  },
+  {
+    "name": "Fluoride varnish",
+    "description": "A concentrated fluoride treatment applied to teeth to strengthen enamel and prevent cavities.",
+    "cost": 50,
+    "dentists": ["Dr. Lee", "Dr. Park"],
+    "procedure": "Fluoride Treatment"
+  }  
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Composite resin",
+    "description": "A tooth-colored filling material made of a mixture of plastic and glass or ceramic particles. Composite resin is commonly used to fill cavities caused by tooth decay, as well as for cosmetic dental bonding to improve the appearance of teeth.",
+    "cost": 150,
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Dental cement",
+    "description": "A type of dental adhesive used to attach restorations such as crowns, bridges, and veneers to teeth. Dental cement is available in several different formulations, including resin-modified glass ionomer, zinc phosphate, and polycarboxylate.",
+    "cost": 75,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Calcium hydroxide",
+    "description": "A material used in root canal therapy to help stimulate new tissue growth and aid in the healing of the tooth. It works by neutralizing acids in the mouth and promoting the growth of hard tissue.",
+    "cost": 100,
+    "procedure": "Root canal"
+  },
+  {
+    "name": "Gutta-percha",
+    "description": "A rubber-like material that is used to fill the space inside the tooth after the infected or damaged tissue has been removed during root canal therapy. Gutta-percha is biocompatible and easy to work with, making it a popular choice for this application.",
+    "cost": 50,
+    "procedure": "Root canal"
+  },
+  {
+    "name": "Amalgam",
+    "description": "A filling material made of a mixture of metals, including mercury, silver, tin, and copper. Amalgam is known for its durability and resistance to wear and tear, but it is less commonly used today due to concerns about its mercury content.",
+    "cost": 100,
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Porcelain",
+    "description": "A type of dental ceramic that is frequently used to make crowns, bridges, veneers, and other restorations. Porcelain is prized for its natural-looking translucency and ability to mimic the appearance of natural tooth enamel.",
+    "cost": 200,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Zirconia",
+    "description": "A type of ceramic material that is often used to make crowns and bridges due to its strength and durability. Zirconia restorations are biocompatible and highly resistant to wear and chipping.",
+    "cost": 300,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Gold alloy",
+    "description": "A type of filling material made of a mixture of gold, copper, and other metals. Gold alloy fillings are highly durable and resistant to corrosion, but they are often more expensive than other types of fillings.",
+    "cost": 500,
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Porcelain-fused-to-metal",
+    "description": "A type of dental restoration that combines the strength and durability of a metal substructure with the natural-looking appearance of porcelain. Porcelain-fused-to-metal restorations are commonly used for crowns and bridges.",
+    "cost": 250,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Titanium",
+    "description": "A strong, lightweight metal that is used frequently in dental implants due to its biocompatibility and ability to fuse with bone tissue in a process called osseointegration.",
+    "cost": 400,
+    "procedure": "Implants"
+  },
+  {
+    "name": "Invisalign",
+    "description": "A type of clear plastic aligner system used to straighten teeth. Invisalign aligners are removable, comfortable, and virtually invisible, making them a popular alternative to traditional braces.",
+    "cost": 5000,
+    "procedure": "Orthodontics"
+  },
+  {
+    "name": "Acrylic resin",
+    "description": "A type of plastic used to make dentures. Acrylic resin dentures are lightweight, comfortable, and can be easily adjusted or repaired if necessary.",
+    "cost": 50,
+    "procedure": "Dentures"
+  },
+  {
+    "name": "Cerinate",
+    "description": "A type of ceramic material used to make veneers. Cerinate veneers are highly resistant to staining and discoloration, making them a long-lasting and natural-looking option for improving the appearance of teeth.",
+    "cost": 300,
+    "procedure": "Veneers"
+  },
+  {
+    "name": "E.max",
+    "description": "A type of high-strength dental ceramic material used to make crowns, veneers, and other restorations. E.max restorations are highly durable and can be customized to match the color and shape of a patient's natural teeth.",
+    "cost": 400,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Lithium disilicate",
+    "description": "A type of dental ceramic material used to make restorations such as crowns and veneers. Lithium disilicate restorations are highly aesthetic, strong, and durable.",
+    "cost": 350,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Dental amalgam alloy",
+    "description": "A type of filling material made of a mixture of metals, including mercury, silver, tin, copper, and zinc. Dental amalgam is strong, durable, and has been used for many years as a filling material.",
+    "cost": 80,
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Resilon",
+    "description": "A type of synthetic polymer used as a filling material for root canal therapy. Resilon is biocompatible and has a similar texture to gutta-percha, but is more flexible and can better adapt to the shape of the tooth canal.",
+    "cost": 100,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Gold foil",
+    "description": "A type of filling material made entirely of gold that is used for small cavities or areas of the tooth needing repair. Gold foil is long-lasting and biocompatible, but is less commonly used today.",
+    "cost": 600,
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Orthodontic bands",
+    "description": "Stainless steel or titanium bands that wrap around molars to provide anchor points for braces. Orthodontic bands help to move teeth into the proper position and improve bite alignment.",
+    "cost": 200,
+    "procedure": "Orthodontics"
+  },
+  {
+    "name": "Fluoride varnish",
+    "description": "A liquid solution of fluoride that is painted onto the teeth to help to prevent tooth decay. Fluoride varnish can be applied in a quick office visit and helps to remineralize teeth and strengthen tooth enamel.",
+    "cost": 50,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Proprietary fluoride",
+    "description": "A concentrated fluoride solution that is applied by a dental professional to help prevent tooth decay. Proprietary fluoride solutions can be used in-office or prescribed for at-home use.",
+    "cost": 100,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Dicalcium phosphate",
+    "description": "A mineral compound sometimes used in toothpaste and as a dietary supplement to help strengthen teeth and reduce the risk of tooth decay.",
+    "cost": 75,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Sodium fluoride",
+    "description": "A common compound used in toothpaste and mouthwash to help prevent tooth decay. Sodium fluoride can also be applied in-office by a dental professional to strengthen teeth.",
+    "cost": 50,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Potassium nitrate",
+    "description": "A compound sometimes used in toothpaste and as a dietary supplement to help alleviate tooth sensitivity. Potassium nitrate works by desensitizing the nerve cells in the teeth.",
+    "cost": 75,
+    "procedure": "Tooth sensitivity"
+  },
+  {
+    "name": "Fluorapatite",
+    "description": "A naturally occurring mineral found in tooth enamel that is highly resistant to acid erosion and decay. Fluorapatite can also be synthesized in the laboratory and added to dental materials to help strengthen teeth.",
+    "cost": 100,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Sodium trimetaphosphate",
+    "description": "A mineral compound sometimes used in toothpaste and as a dietary supplement to help reduce the risk of tooth decay.",
+    "cost": 125,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Magnesium hydroxide",
+    "description": "A mineral compound sometimes used in toothpaste and mouthwash to help neutralize acid and reduce the risk of tooth decay.",
+    "cost": 150,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Chlorhexidine gluconate",
+    "description": "A mouthwash or gel containing an antiseptic compound used to reduce the bacteria that causes gum disease and other oral infections.",
+    "cost": 75,
+    "procedure": "Gingivitis treatment"
+  },
+  {
+    "name": "Sodium bicarbonate",
+    "description": "A compound sometimes used in toothpaste and as a whitening toothpaste ingredient. Sodium bicarbonate helps to neutralize acid and gently polish tooth enamel.",
+    "cost": 50,
+    "procedure": "Teeth whitening"
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "description": "A bleaching agent commonly used in teeth whitening treatments. Hydrogen peroxide helps to break down stains and discoloration in tooth enamel.",
+    "cost": 100,
+    "procedure": "Teeth whitening"
+  },
+  {
+    "name": "Carbamide peroxide",
+    "description": "A type of peroxide commonly used in teeth whitening treatments. Carbamide peroxide breaks down into hydrogen peroxide and urea, which help to whiten teeth and remove stains.",
+    "cost": 75,
+    "procedure": "Teeth whitening"
+  },
+  {
+    "name": "Baking soda",
+    "description": "A mildly abrasive substance sometimes used to remove surface stains from teeth. Baking soda is often used in DIY teeth whitening remedies.",
+    "cost": 25,
+    "procedure": "Teeth whitening"
+  },
+  {
+    "name": "Calcium phosphate",
+    "description": "A mineral compound found in tooth enamel that helps to strengthen teeth and reduce the risk of decay. Calcium phosphate can also be used in dental products to help remineralize teeth.",
+    "cost": 125,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Zinc oxide",
+    "description": "A material sometimes used in dental products to improve the strength and durability of restorations such as dentures and crowns.",
+    "cost": 50,
+    "procedure": "Dentures"
+  },
+  {
+    "name": "Alumina",
+    "description": "A type of dental ceramic material used to make restorations such as crowns and bridges. Alumina restorations are highly resistant to wear and fracture.",
+    "cost": 200,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Hydroxyapatite",
+    "description": "A naturally occurring mineral found in tooth enamel and bone tissue. Hydroxyapatite can also be synthesized in the laboratory and used in dental products to help remineralize teeth and improve bone density.",
+    "cost": 300,
+    "procedure": "Implants"
+  },
+  {
+    "name": "Composite veneer",
+    "description": "A type of dental veneer made from a composite resin material. Composite veneers are less expensive than porcelain veneers and can often be completed in a single office visit.",
+    "cost": 250,
+    "procedure": "Veneers"
+  },
+  {
+    "name": "Porcelain jacket crown",
+    "description": "A type of porcelain crown that covers the entire surface of the tooth to provide additional strength and durability. Porcelain jacket crowns can be customized to match the color and shape of the patient's natural teeth.",
+    "cost": 350,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Resin-modified glass ionomer",
+    "description": "A type of filling material that combines the strength and durability of traditional dental glass ionomer with the adhesive properties of resin-based composite. Resin-modified glass ionomer fillings are often used in areas of the mouth subject to high stress and wear.",
+    "cost": 100,
+    "procedure": "Fillings"
+  },
+  {
+    "name": "Silver diamine fluoride",
+    "description": "A solution that contains both silver and fluoride that can be applied to the teeth to prevent or arrest tooth decay. Silver diamine fluoride works by both killing the bacteria responsible for decay and remineralizing teeth.",
+    "cost": 150,
+    "procedure": "Preventive care"
+  },
+  {
+    "name": "Polycarbonate crown",
+    "description": "A temporary crown made of a clear polycarbonate material. Polycarbonate crowns are often used as an esthetic temporary solution while a permanent crown is being fabricated.",
+    "cost": 150,
+    "procedure": "Crowns"
+  },
+  {
+    "name": "Disposable prophylaxis paste",
+    "description": "A professional dental paste used for smoothing and polishing teeth.",
+    "cost": 20,
+    "procedure": "Teeth Cleaning"
+  },
+  {
+    "name": "Endodontic sealer",
+    "description": "A substance used in root canal treatment to fill and seal the space inside the tooth.",
+    "cost": 50,
+    "procedure": "Root Canal"
+  },
+  {
+    "name": "Sutures",
+    "description": "A thread-like material used to hold tissues together after surgery.",
+    "cost": 10,
+    "procedure": "Oral Surgery"
+  },
+  {
+    "name": "Brackets",
+    "description": "Small metal or ceramic pieces that are attached to teeth to hold wires and elastics in place for orthodontic treatment.",
+    "cost": 200,
+    "procedure": "Orthodontic Treatment"
+  },
+  {
+    "name": "Archwire",
+    "description": "A flexible wire used in orthodontic treatment to move and align teeth.",
+    "cost": 100,
+    "procedure": "Orthodontic Treatment"
+  },
+  {
+    "name": "Grafts",
+    "description": "A surgical procedure where tissue or bone is taken from one part of the body and transplanted to another part.",
+    "cost": 500,
+    "procedure": "Bone Graft"
+  },
+  {
+    "name": "Abutment",
+    "description": "A piece of hardware used in implant dentistry to connect the dental implant to the prosthetic tooth or bridge.",
+    "cost": 300,
+    "procedure": "Dental Implant"
+  },
+  {
+    "name": "Clear aligners",
+    "description": "A type of orthodontic treatment that utilizes clear plastic aligners to straighten teeth.",
+    "cost": 3000,
+    "procedure": "Clear Aligner Treatment"
+  },
+  {
+    "name": "Antibacterial mouthwash",
+    "description": "A liquid solution used to kill bacteria and freshen breath by rinsing the mouth.",
+    "cost": 15,
+    "procedure": "Oral Hygiene"
+  },
+  {
+    "name": "Surgical dressing",
+    "description": "A protective bandage or covering applied to a surgical site to promote healing and prevent infection.",
+    "cost": 50,
+    "procedure": "Oral Surgery"
+  },
+  {
+    "name": "Sedative",
+    "description": "A medication used to help patients relax and minimize discomfort during dental procedures.",
+    "cost": 75,
+    "procedure": "Sedation Dentistry"
+  },
+  {
+    "name": "Sealant resin",
+    "description": "A thin, plastic coating that is applied to the chewing surfaces of back teeth to prevent cavities.",
+    "cost": 50,
+    "procedure": "Dental Sealants"
+  },
+  {
+    "name": "Surgical wiring",
+    "description": "A technique used to stabilize teeth or jaws after surgery or injury.",
+    "cost": 200,
+    "procedure": "Oral Surgery"
+  },
+  {
+    "name": "Custom-fitted material",
+    "description": "A material that is made to fit a specific individual's teeth or oral structure.",
+    "cost": 150,
+    "procedure": "Custom-Fitted Appliances"
+  },
+  {
+    "name": "Adjustable appliance",
+    "description": "An orthodontic appliance that can be adjusted over time to gradually move teeth into the desired position.",
+    "cost": 500,
+    "procedure": "Orthodontic Treatment"
+  }  
+]

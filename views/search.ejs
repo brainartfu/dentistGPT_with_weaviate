@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="CSS/style.css" />
+<script type="text/javascript" src="/columns.js"></script>
+<html>
+  <center>
+    <div class="logo">
+    </div>
+    <form action="/search" spellcheck="false" method="post"> 
+      Select category
+      <select name="type" style="padding: 5px;">
+        <option value="DentalCondition">Dental conditions</option>
+        <option value="DentalProcedure">Dental procedures</option>
+        <option value="DentalEquipment">Dental equipment</option>
+        <option value="DentalMaterial">Dental materials</option>
+        <option value="Dentist">Dentists </option>
+      </select>        
+      <div class="search-section">
+    <div class="bar">
+      <input class="searchbar" name="searched_data" type="text" title="Search" autocomplete="off">
+      
+    </div>
+    <div class="buttons">
+      <button class="button btn2" type="submit">Search</button>
+     </div>
+     </div>
+     </form>
+     <div class="container margin-bottom-md" style="margin-top: 30px;">
+      <% if(error!=null){%>
+        <h3 style="color:red;"><%=error %></h3>
+      <% } %> 
+      <% if(answer!=null){%>
+        <% for (let i = 0;i < answer.length; i++) { %> 
+          <div class="meal">
+            <div class="meal-content" style="background-color:rgb(212, 184, 190) ; font-size: 2rem;">
+              <% if(question!=null){%>
+                <h3>Question: <%=question %></h3><br /><br />
+              <% } %> 
+              <% if(answer[i].name!=null){%>
+                <br /><b>Name:</b><br /><br /> 
+                <span style="margin-left: 50px;">
+                  <%=answer[i].name %> <br />
+                </span>
+              <% } %> 
+              <% if(answer[i].description!=null){%>
+                <br /><b>Description:</b><br /><br /> 
+                <span style="margin-left: 50px;">
+                  <%=answer[i].description %> <br />
+                </span>
+              <% } %> 
+              <% if(answer[i].procedure!=null){%>
+                <br /><b>Procedure:</b><br /><br /> 
+                <span style="margin-left: 50px;">
+                  <%=answer[i].procedure %> <br />
+                </span>
+              <% } %> 
+              <% if(answer[i].cost!=null){%>
+                <br /><b>Cost:</b><br /><br /> 
+                <span style="margin-left: 50px;">
+                  <%=answer[i].cost %> <br />
+                </span>
+              <% } %> 
+              <% if(answer[i].symptoms!=null){%>
+                <br /><b>Symptoms:</b><br /><br /> 
+                <span style="margin-left: 50px;">
+                  <%=answer[i].symptoms.join(", ") %> <br />
+                </span>
+              <% } %> 
+              <% if(answer[i].treatments!=null){%>
+                <br /><b>Treatments:</b><br /><br /> 
+                <span style="margin-left: 50px;">
+                  <%=answer[i].treatments.join(", ") %> <br />
+                </span>
+              <% } %>
+              <% if(answer[i].condition!=null){%>
+                <br /><b>Condition:</b><br /><br />
+                <% for (let j = 0;j < answer[i].condition.length; j++) { %> 
+                  <span style="margin-left: 50px;">
+                    <%=answer[i].condition[j]['name'] %>
+                  </span><br />
+                <% } %>
+                <br />
+              <% } %>
+              <% if(answer[i].equipment!=null){%>
+                <br /><b>Equipment:</b><br /><br />
+                <% for (let j = 0;j < answer[i].equipment.length; j++) { %> 
+                  <span style="margin-left: 50px;">
+                    <%=answer[i].equipment[j]['name'] %> , 
+                  </span><br />
+                <% } %>
+                <br />
+              <% } %>
+              <% if(answer[i].materials!=null){%>
+                <br /><b>Materials:</b><br /><br />
+                <% for (let j = 0;j < answer[i].materials.length; j++) { %> 
+                  <span style="margin-left: 50px;">
+                    <%=answer[i].materials[j]['name'] %>
+                  </span><br />
+                <% } %>
+                <br />
+              <% } %>
+            </div>
+          </div>
+        <% } %> 
+        <% if(answer.length === 0){%>
+          <% if(question!=null){%>
+            <div class="meal">
+              <div class="meal-content" style="background-color:rgb(212, 184, 190) ; font-size: 2rem;height: 300px;">
+                  <h3>Question: <%=question %></h3><br /><br />
+                  I'm sorry, I couldn't find any matches for your question in my database. Would you like me to try searching again or try asking a different question?
+              </div>
+            </div>
+          <% } %> 
+        <% } %> 
+      
+      <% } %> 
+  </div>
+    </body>
+</center>
+</html>
+
